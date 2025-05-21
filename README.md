@@ -19,5 +19,4 @@ To develop a predictive model for estimating the 12-month PD of loan applicants,
 - **Size**: 1000 observations, 20 features, binary target (`1` = default, `0` = no default)
 - **Features**: Mix of categorical and numerical variables (e.g., credit history, loan amount, age)
 
-## ⚙️ Project Structure
 
